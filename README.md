@@ -59,7 +59,7 @@ The following **quality** and **tidiness** issues were identified across the thr
 
 ---
 
-## 📌 **Data Cleaning**
+## **Data Cleaning**
 
 Before cleaning, copies of all datasets were created to preserve raw data.  
 Cleaning steps included:
