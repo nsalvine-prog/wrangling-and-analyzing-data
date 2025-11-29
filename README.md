@@ -1,4 +1,4 @@
-# **Project: Wrangling and Analyzing Data**
+# **Project: Data Wrangling and Analyzing Project**
 
 ## **Introduction**
 This project focuses on wrangling and analyzing real-world data from the WeRateDogs Twitter archive. The workflow involves the following core processes:
